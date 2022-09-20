@@ -1,1 +1,2 @@
 # odin-recipes
+Welcome to the readme section of the recipe project. So far I have created a github repo and linked the repo to my local machine using the command line. I suspect the result of this project will be a pretty basic looking website with some recipes.
