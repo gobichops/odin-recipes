@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(192, 11, 11);
+    background-color: aqua;
+}
+
+.list {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 48px;
+    color: rgb(25, 197, 34);
+    text-align: center;
+}
